@@ -1,0 +1,98 @@
+body{
+    font-family: sans-serif;
+    margin: 0%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+header{
+    display: flex;
+    height: 40px;
+    background-color:#229DA3;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+}
+
+.logo {
+   color: aliceblue;
+   font-size: 2em;
+   font-family: forte;
+    height: 40px;
+}
+
+nav a{
+    font-weight: 500;
+    padding-right:10px;
+}
+
+nav a:hover{
+    color: #84D6DA;
+}
+
+ {
+    margin: 0%;
+    padding: 0%;
+ }
+
+ body{
+    background: #28BCC4;
+
+ }
+
+ h1{
+    
+    color: aliceblue;
+    font-size: 4em;
+    text-align: center;
+    font-family:Bankgothic md bt ;
+       font-size: 50px;
+ }
+
+ h2{
+    color: white;
+    font-size: 2em;
+    font-family: bankgothic md bt;
+ }
+
+ p{
+    color: aliceblue;
+    font-size: 25px;
+    text-align: middle;
+    font-family: bankgothic md bt;
+ }
+ 
+ 
+ .footer{
+    background-color: #229DA3;
+    position: relative;
+    height: 10px;
+    margin: -10px;
+    clear: both;
+    padding: 1%;
+    height: 40%;
+    text-align: center;
+
+ }
+
+ p{
+    color: aliceblue;
+    font-size: 2em;
+    font-family: bankgothic md bt;
+ }
+
+ .title-section{
+   display: flex;
+   height: 20px;
+   background-color: #229DA3;
+   justify-content: space-between;
+   align-items:center ;
+   padding: 1%;
+
+ }
+
+ nav a:hover{
+   color: #84D6DA;
+ }
